@@ -1,4 +1,4 @@
-Feature: Mutiple Business Login Cases
+Feature: Multiple Business Login Cases
 Scenario: Register user with valid details
 	Given Open website
 	When Click Business login button
